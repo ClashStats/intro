@@ -4,4 +4,4 @@ ClashStats is a fan made bot for Discord and Band app which provides a range of 
 
 visit -> http://clashstats.info
 
-We now support / Slash Commands!
+We now support (/) Slash Commands!
